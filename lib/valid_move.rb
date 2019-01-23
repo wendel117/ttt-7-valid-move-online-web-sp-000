@@ -1,6 +1,5 @@
 # code your #valid_move? method here
-def valid_move?(board, value)
-  board[value].between?(0, 8)
+def valid_move?
 end
 
 
