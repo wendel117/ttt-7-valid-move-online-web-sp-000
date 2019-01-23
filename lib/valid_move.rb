@@ -1,7 +1,6 @@
 # code your #valid_move? method here
 def valid_move?(Input)
   Input.between?(0, 8)
-
 end
 
 
